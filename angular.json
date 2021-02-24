@@ -133,5 +133,8 @@
       }
     }
   },
-  "defaultProject": "angular-tailwindcss-app"
+  "defaultProject": "angular-tailwindcss-app",
+  "cli": {
+    "analytics": false
+  }
 }
